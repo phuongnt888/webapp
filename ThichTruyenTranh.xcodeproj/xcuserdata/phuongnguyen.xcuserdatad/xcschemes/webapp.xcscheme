@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "96C397C71B40E67A005A4AEB"
-               BuildableName = "WebTruyen.app"
-               BlueprintName = "WebTruyen"
-               ReferencedContainer = "container:WebTruyen.xcodeproj">
+               BuildableName = "ThichTruyenTranh.app"
+               BlueprintName = "ThichTruyenTranh"
+               ReferencedContainer = "container:ThichTruyenTranh.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "96C397DC1B40E67A005A4AEB"
-               BuildableName = "WebTruyenTests.xctest"
-               BlueprintName = "WebTruyenTests"
-               ReferencedContainer = "container:WebTruyen.xcodeproj">
+               BuildableName = "ThichTruyenTranhTests.xctest"
+               BlueprintName = "ThichTruyenTranhTests"
+               ReferencedContainer = "container:ThichTruyenTranh.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "96C397DC1B40E67A005A4AEB"
-               BuildableName = "WebTruyenTests.xctest"
-               BlueprintName = "WebTruyenTests"
-               ReferencedContainer = "container:WebTruyen.xcodeproj">
+               BuildableName = "ThichTruyenTranhTests.xctest"
+               BlueprintName = "ThichTruyenTranhTests"
+               ReferencedContainer = "container:ThichTruyenTranh.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "96C397C71B40E67A005A4AEB"
-            BuildableName = "WebTruyen.app"
-            BlueprintName = "WebTruyen"
-            ReferencedContainer = "container:WebTruyen.xcodeproj">
+            BuildableName = "ThichTruyenTranh.app"
+            BlueprintName = "ThichTruyenTranh"
+            ReferencedContainer = "container:ThichTruyenTranh.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "96C397C71B40E67A005A4AEB"
-            BuildableName = "WebTruyen.app"
-            BlueprintName = "WebTruyen"
-            ReferencedContainer = "container:WebTruyen.xcodeproj">
+            BuildableName = "ThichTruyenTranh.app"
+            BlueprintName = "ThichTruyenTranh"
+            ReferencedContainer = "container:ThichTruyenTranh.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "96C397C71B40E67A005A4AEB"
-            BuildableName = "WebTruyen.app"
-            BlueprintName = "WebTruyen"
-            ReferencedContainer = "container:WebTruyen.xcodeproj">
+            BuildableName = "ThichTruyenTranh.app"
+            BlueprintName = "ThichTruyenTranh"
+            ReferencedContainer = "container:ThichTruyenTranh.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
@@ -105,7 +105,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
-      customArchiveName = "WebTruyen"
+      customArchiveName = "ThichTruyenTranh"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
