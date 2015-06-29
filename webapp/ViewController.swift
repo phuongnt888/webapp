@@ -26,10 +26,6 @@ class ViewController: UIViewController,ADBannerViewDelegate  {
         webView1.loadRequest(request)
             
         self.canDisplayBannerAds = true
-            
-            
-            
-        
     }
 
     override func didReceiveMemoryWarning() {
