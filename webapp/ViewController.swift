@@ -9,7 +9,8 @@
 import UIKit
 import iAd
 
-class ViewController: UIViewController,ADBannerViewDelegate  {
+//ADBannerViewDelegate
+class ViewController: UIViewController  {
     
      //var UIiAd: ADBannerView = ADBannerView()
     
