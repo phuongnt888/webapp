@@ -10,7 +10,7 @@ import Foundation
 
 class Varialbes {
     struct Static {
-        static var URL = "http://m.autopro.com.vn"
+        static var URL = "http://www.lavendernhatrang.com"
         static var ServerPushURL = "http://nyblink.desti.no/nyheter"
         static var NotifyURL = "http://nyblink.desti.no/nyheter"
     }
