@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "96C397C71B40E67A005A4AEB"
-               BuildableName = "ThietKeNoiThat.app"
-               BlueprintName = "KienTrucMoi"
-               ReferencedContainer = "container:KienTrucMoi.xcodeproj">
+               BuildableName = "QuangCaoOcean.app"
+               BlueprintName = "OceanAdvertising"
+               ReferencedContainer = "container:OceanAdvertising.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "96C397DC1B40E67A005A4AEB"
-               BuildableName = "ThietKeNoiThatTests.xctest"
-               BlueprintName = "KienTrucMoiTests"
-               ReferencedContainer = "container:KienTrucMoi.xcodeproj">
+               BuildableName = "QuangCaoOceanTests.xctest"
+               BlueprintName = "OceanAdvertisingTests"
+               ReferencedContainer = "container:OceanAdvertising.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "96C397DC1B40E67A005A4AEB"
-               BuildableName = "ThietKeNoiThatTests.xctest"
-               BlueprintName = "KienTrucMoiTests"
-               ReferencedContainer = "container:KienTrucMoi.xcodeproj">
+               BuildableName = "QuangCaoOceanTests.xctest"
+               BlueprintName = "OceanAdvertisingTests"
+               ReferencedContainer = "container:OceanAdvertising.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "96C397C71B40E67A005A4AEB"
-            BuildableName = "ThietKeNoiThat.app"
-            BlueprintName = "KienTrucMoi"
-            ReferencedContainer = "container:KienTrucMoi.xcodeproj">
+            BuildableName = "QuangCaoOcean.app"
+            BlueprintName = "OceanAdvertising"
+            ReferencedContainer = "container:OceanAdvertising.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "96C397C71B40E67A005A4AEB"
-            BuildableName = "ThietKeNoiThat.app"
-            BlueprintName = "KienTrucMoi"
-            ReferencedContainer = "container:KienTrucMoi.xcodeproj">
+            BuildableName = "QuangCaoOcean.app"
+            BlueprintName = "OceanAdvertising"
+            ReferencedContainer = "container:OceanAdvertising.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "96C397C71B40E67A005A4AEB"
-            BuildableName = "ThietKeNoiThat.app"
-            BlueprintName = "KienTrucMoi"
-            ReferencedContainer = "container:KienTrucMoi.xcodeproj">
+            BuildableName = "QuangCaoOcean.app"
+            BlueprintName = "OceanAdvertising"
+            ReferencedContainer = "container:OceanAdvertising.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
@@ -105,7 +105,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
-      customArchiveName = "KienTrucMoi"
+      customArchiveName = "OceanAdvertising"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
